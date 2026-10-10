@@ -1,0 +1,28 @@
+main: yhw.FunkyWizards.plugin.Main
+name: FunkyWizards
+version: 1.0
+author: FunkyMonkeyJJ
+description: Hello
+commands:
+  mycommand:
+    description: This is a test command
+    usage: test
+    permission: my.cmd
+    permission-message: You shall not pass!  
+  fw:
+     description: Yeah
+     usage: /<command>
+  flashon:
+     description:
+     usage: /<command>   
+  ignisGUI:
+     description: Opens the GUI for the Ignis Spells
+     usage: /<command>
+
+   
+ 
+  #//my command: 
+    #//description: 
+    #//usage: 
+    #//permission: 
+    #//permission-message:
